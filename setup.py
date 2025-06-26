@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name="git-smart-commit-ollama",
-    version="0.1.0",
+    name="git-smart-commit",
+    version="0.1.3",
     py_modules=["app"],
     entry_points={
         "console_scripts": [
